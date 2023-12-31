@@ -8,5 +8,5 @@ Implementation of cryptographic attacks. Mainly reproduction of recent cryptogra
 
 ## Paper Reproduction
 
-- [x] [A new attack on some RSA variants](./ShareRSA/) #[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0304397523002116?fr=RR-2&ref=pdf_download&rr=8377e4733d8f0968)
-- [x] [A Polynomial-Time Algorithm for Solving the Hidden Subset Sum Problem](./MultivariateHSSP/) #[Paper Link](https://eprint.iacr.org/2020/461.pdf)
+- [x] [A new attack on some RSA variants](./ShareRSA/) : bivariate coppersmith, RSA.
+- [x] [A Polynomial-Time Algorithm for Solving the Hidden Subset Sum Problem](./MultivariateHSSP/) : orthogonal lattice attack, multivariate linearization attack, hidden subset sum problem. 
