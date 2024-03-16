@@ -7,4 +7,4 @@ Implementations of paper  [Linearization Attacks Against Syndrome Based Hashes](
 
 **If you want to learn about details, please directly refer to the [notebook](./FSB-Implementation.ipynb).**
 
-**If you want to directly use it, please check the sage/python scripts under this directory.**
+**If you want to use it directly, please check the sage scripts under this directory.**

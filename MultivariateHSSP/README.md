@@ -11,4 +11,4 @@ Implementations of paper [A Polynomial-Time Algorithm for Solving the Hidden Sub
 
 **If you want to learn about details, please directly refer to the [notebook](./MultivariateHSSP/A%20Polynomial-Time%20Algorithm%20for%20Solving%20the%20Hidden%20Subset%20Sum%20Problem.ipynb).**
 
-**If you want to directly use it, please check the sage scripts under this directory.**
+**If you want to use it directly, please check the sage scripts under this directory.**
