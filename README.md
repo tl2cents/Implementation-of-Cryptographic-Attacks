@@ -12,3 +12,4 @@ Implementation of cryptographic attacks. Mainly reproduction of recent cryptogra
 - [x] [A Polynomial-Time Algorithm for Solving the Hidden Subset Sum Problem](./MultivariateHSSP/) : orthogonal lattice attack, multivariate linearization attack, hidden subset sum problem. 
 - [x] [Linearization Attacks Against Syndrome Based Hashes](./FSB/) : Fast Syndrome Based Hash (FSB), linearization attack, code-based cryptography.
 - [x] [Reconstructing RSA Private Keys from Random Key Bits](./ReconstructingRSA/) : RSA, random private key leak, pruning.
+- [x] [Improving Bounds on Elliptic Curve Hidden Number Problem for ECDH Key Exchange](./ECHNP/) : Elliptic Curve Hidden Number Problem (ECHNP), coppersmith's method.
