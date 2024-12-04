@@ -13,3 +13,4 @@ Implementation of cryptographic attacks. Mainly reproduction of recent cryptogra
 - [x] [Linearization Attacks Against Syndrome Based Hashes](./FSB/) : Fast Syndrome Based Hash (FSB), linearization attack, code-based cryptography.
 - [x] [Reconstructing RSA Private Keys from Random Key Bits](./ReconstructingRSA/) : RSA, random private key leak, pruning.
 - [x] [Improving Bounds on Elliptic Curve Hidden Number Problem for ECDH Key Exchange](./ECHNP/) : Elliptic Curve Hidden Number Problem (ECHNP), coppersmith's method.
+- [x] [New Public-Key Cryptosystem Blueprints Using Matrix Products in Fp](./matprod/): **breaking** the matrix product cryptosystem, also an optimized implementation of [Attacking trapdoors from matrix products](https://eprint.iacr.org/2024/1332).
